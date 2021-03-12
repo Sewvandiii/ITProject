@@ -23,7 +23,7 @@
     "@sweetalert2/ngx-sweetalert2": "^5.1.0",
     "angular-pdf-generator": "^0.1.0",
     "bootstrap": "^4.3.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "ng2-pdf-viewer": "^5.3.4",
     "rxjs": "~6.4.0",
     "sweetalert2": "^8.16.4",
